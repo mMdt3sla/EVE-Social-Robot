@@ -11,11 +11,11 @@
 \</p>
 
 \<p align="center">
-&#x20; ![Project Status]\([https://img.shields.io/badge/Status-Working-success?style=for-the-badge](https://img.shields.io/badge/Status-Working-success?style=for-the-badge))
-&#x20; ![Platform]\([https://img.shields.io/badge/Platform-Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi](https://img.shields.io/badge/Platform-Raspberry%20Pi-red?style=for-the-badge\&logo=raspberrypi))
-&#x20; ![CAD]\([https://img.shields.io/badge/Mechanical%20Design-SolidWorks-orange?style=for-the-badge&logo=dassaultsystemes](https://img.shields.io/badge/Mechanical%20Design-SolidWorks-orange?style=for-the-badge\&logo=dassaultsystemes))
-&#x20; ![License]\([https://img.shields.io/badge/License-TBD-lightgrey?style=for-the-badge](https://img.shields.io/badge/License-TBD-lightgrey?style=for-the-badge))
-\</p>
+  <img src="https://img.shields.io/badge/Status-Working-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi" />
+  <img src="https://img.shields.io/badge/Mechanical%20Design-SolidWorks-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Social%20Robotics-blueviolet?style=for-the-badge" />
+  \</p>
 
 ---
 
@@ -355,18 +355,15 @@ EVE/
 │   └── Assembly/
 │
 ├── Code/
-│   ├── Hardware/
 │   ├── Motion/
 │   ├── Audio/
 │   ├── Vision/
 │   └── Main/
 │
-├── Images/
-│   ├── Robot/
-│   ├── Electronics/
-│   └── Development/
+├── Documentation/
+│   ├── Images/
+│   └── Videos/
 │
-├── Videos/
 │
 └── LICENSE
 ```
@@ -427,6 +424,7 @@ EVE is intended to be an expandable platform. Future development may include:
 ### Designed & Developed by
 
 **Mohammad Montazeri**
+**Mahdi Montazeri**
 
 Robotics & Mechatronics Engineering Enthusiast
 
