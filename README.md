@@ -1,21 +1,21 @@
 # 🤖 EVE — AI-Powered Modular Social Robot
 
-\<p align="center">
-&#x20; \<img src="images/eve-banner.png" alt="EVE Social Robot Banner" width="100%">
-\</p>
+<p align="center">
+&#x20; <img src="images/eve-banner.png" alt="EVE Social Robot Banner" width="100%">
+</p>
 
-\<p align="center">
-&#x20; \<strong>A Modular Social Robot Designed for Human Interaction\</strong>
-&#x20; \<br>
+<p align="center">
+&#x20; <strong>A Modular Social Robot Designed for Human Interaction</strong>
+&#x20; <br>
 &#x20; Robotics • Artificial Intelligence • Electronics • Mechanical Design
-\</p>
+</p>
 
-\<p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Working-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Raspberry%20Pi-red?style=for-the-badge&logo=raspberrypi" />
   <img src="https://img.shields.io/badge/Mechanical%20Design-SolidWorks-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Project-Social%20Robotics-blueviolet?style=for-the-badge" />
-  \</p>
+  </p>
 
 ---
 
